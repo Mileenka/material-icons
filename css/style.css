@@ -24,7 +24,6 @@ li::before {
 }
 
 li:nth-of-type(4)::before {
-    font-family: 'Material Icons';
     content: '\e5cd';
     color: red;
 }
